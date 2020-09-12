@@ -1,0 +1,179 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#top {
+	height: 13px;
+	margin: 0 auto;
+	background: #6c4b49;
+}
+
+#a {
+	background-image: url(../img/gzubk.png);
+	height: 148px;
+}
+
+#b {
+	width: 1000px;
+	margin: 0 auto
+}
+
+.gzu {
+	margin: 5px;
+	margin-top: 20px;
+}
+
+#english {
+	height: 8px;
+	float: right;
+	text-decoration: none;
+	color: #8c0000;
+	height: 26px;
+	margin-right: 195px;
+}
+
+#navi {
+	float: right;
+	text-decoration: none;
+	color: #8c0000;
+	margin-right: 195px;
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #5f5f5f;
+}
+
+.naviz {
+	margin-right: 23px;
+}
+
+#luntu {
+	height: 522px;
+	margin-top: 40px;
+	width: 1262px;
+	margin-left: 40px;
+}
+
+#navitow {
+	height: 70px;
+	background: #333;
+	line-height: 70px;
+	text-align: center;
+	color: #fff;
+	font-size: 15px;
+	font-weight: bolder;
+	text-decoration: none;
+}
+
+.naviztow {
+	margin: 65px;
+}
+
+#c {
+	width: 1220px;
+	margin: 0 auto;
+}
+
+#backg {
+	background: #ccb7a2
+}
+
+#d {
+	margin: 0 auto;
+	width: 1220px;
+}
+
+#img {
+	height: 180px;
+	width: 1025px;
+	margin: 0 auto;
+	background-image: url();
+}
+
+.img1 {
+	;
+	width: 322px;
+	height: 180px;
+	float: left;
+	margin-top: -5px;
+	margin-left: 15.55px;
+}
+
+#img33 {
+	margin-left: 29px;
+	margin-right: 29px;
+}
+
+#img333 {
+	float: left;
+}
+
+#news {
+	height: 250px;
+	width: 1025px;
+	margin: 0 auto;
+	margin-top: -5px;
+	margin-left: 16px;
+}
+
+.news1 {
+	width: 322px;
+	height: 250px;
+	float: left;
+}
+
+#news33 {
+	margin-left: 29px;
+	margin-right: 29px;
+	font-size: 13px;
+	color: #505050;
+	line-height: 3;
+	text-indent: 2em
+}
+
+#news333 {
+	float: left;
+	font-size: 13px;
+	color: #505050;
+	line-height: 3;
+}
+
+#news3 {
+	font-size: 13px;
+	color: #505050;
+	line-height: 3;
+	text-indent: 2em
+}
+
+.neirong {
+	padding-left: 20px;
+}
+
+#bk1 {
+	margin-left: -16px;
+	background-image: url(../img/3bk.png);
+	height: 458px;
+	width: 1060px;
+	margin-top: -6px;
+}
+
+#imgg {
+	margin-left: -1px;
+}
+
+#nwess {
+	margin-left: 30px;
+}
+
+
+#table{margin: 0 auto;}
+#table table{margin: 0 auto;}
+
+#sanjiao{float: right;}
+#di{background:#6d4b49;height: 226px;margin-left: -200px;margin-right: -160px;margin-top: 53px;}
+#di table{margin: 0 auto;font-size: 14px;color: #fff;width: 1000px;margin-left: 200px;}
+#navi a:hover{background-color: burlywood; cursor:pointer }
+#navitow a:hover{cursor:pointer }
+#navi a{color:#5f5f5f;text-decoration:none; }
+
